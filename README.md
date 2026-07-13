@@ -4,8 +4,12 @@
 
 <div align="center">
 
+<table>
+<tr>
 <td valign="top"><img src="./ascii.svg" width="370" alt="Neast — ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Neast — Official Logo" /></td>
+</tr>
+</table>
 
   <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/735388907772051497?borderRadius=5px&showDisplayName=true&idleMessage=I'm%20not%20doing%20nothing%20at%20this%20moment)](https://discord.com/users/735388907772051497) -->
 
